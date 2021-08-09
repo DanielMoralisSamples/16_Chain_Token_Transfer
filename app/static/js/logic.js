@@ -1,7 +1,8 @@
-Moralis.initialize("W9CCwwg1nQQ1KFrqWYx8YY1nojrxTINwhMHLwYHD"); // Application id from moralis.io
-Moralis.serverURL = "https://0iooker5q9ww.usemoralis.com:2053/server"; //Server url from moralis.io
+Moralis.initialize(""); // Application id from moralis.io
+Moralis.serverURL = ""; //Server url from moralis.io
 
 const web3_utilities = new Moralis.Web3();
+Moralis.Web3
 
 //frontend logic
 
